@@ -29,10 +29,10 @@ const FaqCard = () => {
         <AccordionTrigger className='md:text-xl lg:text-2xl'>What kind of prompts work best?</AccordionTrigger>
         <AccordionContent className="flex flex-col gap-4 text-base md:text-lg text-balance">
           <p>
-            Be specific with your descriptions - include details about style, composition, colors, and mood. For example: "A futuristic cityscape at sunset with neon lights reflecting on wet streets, digital art style."
+            Be specific with your descriptions - include details about style, composition, colors, and mood. For example: A futuristic cityscape at sunset with neon lights reflecting on wet streets, digital art style.
           </p>
           <p>
-            You can also reference famous art styles or artists to guide the output (e.g., "in the style of Van Gogh").
+            You can also reference famous art styles or artists to guide the output (e.g.,in the style of Van Gogh).
           </p>
         </AccordionContent>
       </AccordionItem>
@@ -54,7 +54,7 @@ const FaqCard = () => {
             Most images generate within 15-30 seconds depending on complexity and server load. Higher resolution outputs may take slightly longer.
           </p>
           <p>
-            You'll receive a notification when your image is ready to view and download.
+            Youll receive a notification when your image is ready to view and download.
           </p>
         </AccordionContent>
       </AccordionItem>

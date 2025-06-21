@@ -4,7 +4,6 @@ import React, { useState } from "react";
 import axios from "axios";
 import { toast } from "sonner";
 import { Loader } from "lucide-react";
-import Image from "next/image";
 const Hero = () => {
   const [promt, setPromt] = useState("");
   const [image, setImage] = useState("");
